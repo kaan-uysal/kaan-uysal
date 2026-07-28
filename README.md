@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Kaan! 👋
+
+I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building a strong foundation in network analysis, system administration, and offensive/defensive security.
+
+---
+
+### 🛡️ What I'm Currently Working On
+* 📡 Mastering Network Types and so on...
+* 🐧 Working hands-on with **Arch Linux** and system management.
+* 🧪 Solving labs and completing paths on **TryHackMe**.
+* 📝 Documenting all my lab write-ups, analysis, and notes in this GitHub portfolio.
+
+---
+
+### 🛠️ Tools & Technologies
+`Linux (Arch)` · `Networking (Wireshark/Nmap)` · `Bash` · `Git/GitHub`
+
+---
+
+📫 **How to reach me:** [kaanuysal234@gmail.com](mailto:kaanuysal234@gmail.com)
 
 <!--
 **kaan-uysal/kaan-uysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
