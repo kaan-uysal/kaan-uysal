@@ -1,4 +1,4 @@
-# Hi there, I'm Kaan! 👋
+# Hi there, I'm Kaan! 
 
 I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building a strong foundation in network analysis, system administration, and offensive/defensive security.
 
