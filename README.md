@@ -6,7 +6,7 @@ I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building
 
 ### 🛡️ What I'm Currently Working On
 * 📡 Mastering Network Types and so on...
-* 🐧 Working hands-on with **Arch Linux** and system management.
+* 🐧 Working hands-on with **Arch Linux** and data encoding.
 * 🧪 Solving labs and completing paths on **TryHackMe**.
 * 📝 Documenting all my lab write-ups, analysis, and notes in this GitHub portfolio.
 
