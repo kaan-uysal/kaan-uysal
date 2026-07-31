@@ -4,11 +4,11 @@ I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building
 
 ---
 
-### 🛡️ What I'm Currently Working On
-* 📡 Mastering Network systems.
-* 🐧 Working hands-on with **Arch Linux** and data encoding.
-* 🧪 Solving labs and completing paths on **TryHackMe**.
-* 📝 Documenting all my write-ups, analysis, and notes in this GitHub portfolio.
+### What I'm Currently Working On
+* Mastering Network systems.
+* Working hands-on with **Arch Linux** and data encoding.
+* Solving labs and completing paths on **TryHackMe**.
+* Documenting all my write-ups, analysis, and notes in this GitHub portfolio.
 
 ---
 
