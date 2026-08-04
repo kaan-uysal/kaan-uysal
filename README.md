@@ -1,21 +1,24 @@
 # Hi there, I'm Kaan! 
 
-I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building a strong foundation in network analysis, system administration, and offensive/defensive security.
+I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building a strong foundation in network/web vulnerability analysis, system administration, and offensive/defensive security.
 
 ---
 
 ### What I'm Currently Working On
-* Mastering Network systems.
-* Working hands-on with **Arch Linux** and data encoding.
-* Solving labs and completing paths on **TryHackMe**.
+* Mastering Network systems, Sub-net schemes, Cryptography, Web-App Penetration tests.
+* Working hands-on with **Arch Linux** and **virtual machines**.
+* Solving labs and completing paths on **HTB Academy**, **TryHackme**,and **PortSwigger**.
 * Documenting all my write-ups, analysis, and notes in this GitHub portfolio.
 
 ---
 
-### 🛠️ Tools & Technologies
-`Linux (Arch)` · `Networking (Wireshark/Nmap)` · `Bash` · `Git/GitHub`
+### Tools & Technologies
+ `Arch Linux` · `Wireshark/Nmap` · `Bash` · `Git/GitHub` · `SSH via OpenVPN`
 
 ---
+
+### Sources and sites
+[TryHackMe](https://tryhackme.com) · [HTB Academy](https://academy.hackthebox.com)
 
 📫 **How to reach me:** [kaanuysal234@gmail.com](mailto:kaanuysal234@gmail.com)
 
