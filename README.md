@@ -7,7 +7,7 @@ I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building
 ### What I'm Currently Working On
 * Mastering Network systems, Sub-net schemes, Cryptography, Web-App Penetration tests.
 * Working hands-on with **Arch Linux** and **virtual machines**.
-* Solving labs and completing paths on **HTB Academy**, **TryHackme**,and **PortSwigger**.
+* Solving labs and completing paths on **HTB Academy**, **TryHackme**, and **PortSwigger**.
 * Documenting all my write-ups, analysis, and notes in this GitHub portfolio.
 
 ---
