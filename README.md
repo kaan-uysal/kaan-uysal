@@ -18,9 +18,9 @@ I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building
 ---
 
 ### Sources and sites
-[TryHackMe](https://tryhackme.com) · [HTB Academy](https://academy.hackthebox.com)
+[TryHackMe](https://tryhackme.com) · [HTB Academy](https://academy.hackthebox.com) · [PortSwigger](https://portswigger.com)
 
-📫 **How to reach me:** [kaanuysal234@gmail.com](mailto:kaanuysal234@gmail.com)
+ **How to reach me:** [kaanuysal234@gmail.com](mailto:kaanuysal234@gmail.com)
 
 <!--
 **kaan-uysal/kaan-uysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
