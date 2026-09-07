@@ -13,7 +13,7 @@ I am a self-taught **Cybersecurity & Networking Enthusiast**, currently building
 ---
 
 ### Tools & Technologies
- `Arch Linux` · `Wireshark/Nmap` · `Bash` · `Git/GitHub` · `SSH via OpenVPN`
+ `Arch Linux` · `Wireshark` · `Bash` · `python3` · `Hydra` · `
 
 ---
 
